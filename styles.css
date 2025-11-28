@@ -1,14 +1,14 @@
-.nav-box {
+.div-box {
     border: 2px solid black;
     padding: 10px 20px;
-    margin-bottom: 20px;
+    margin: 20px;
     background-color: lightgray;
 }
 
-.box {
+.placeholder {
     border: 2px solid black;
-    padding: 10px 20px;
-    background-color: lightgray;
+    padding: 50px;
+    background-color: #eeeeee;
 }
 
 nav {
@@ -24,15 +24,8 @@ nav ul {
     width: 100%;
 }
 
-
 body {
     font-family: Arial, sans-serif;
-}
-
-footer {
-    border: 2px solid black;
-    padding: 10px 20px;
-    background-color: lightgray;
 }
 
 footer ul {
