@@ -30,6 +30,17 @@
     font-size: 50px;    
 }
 
+#main-image {
+    padding: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#welcome-message {
+    padding: 25px;
+    text-align: center;
+}
+
 header ul {
     list-style-type: none;
     display: flex;
