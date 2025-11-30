@@ -18,6 +18,14 @@
     margin: 10px;
 }
 
+.entertainment-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns of equal width */
+    gap: 20px; /* space between the boxes */
+    text-align: center;
+    font-size: 25px;
+}
+
 #logo {
     width: 10%;
     text-align: center;
